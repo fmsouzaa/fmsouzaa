@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Desenvolvimento em C#
 - 🌱 Estudando C# para Unity 
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/fmsouzaa">
