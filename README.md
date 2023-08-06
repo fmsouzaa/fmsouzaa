@@ -1,7 +1,7 @@
 ### Olá!Eu sou a Fernanda 👋
 
-- 🔭 Hoje trabalho com Desenvolvimento em C#
-- 🌱 Estudando C# para Unity 
+- 🔭 Desenvolvedora BackEnd
+- 🌱 Estudando desenvolvimento de jogos (Unity) 
 
 <div align="center">
   <a href="https://github.com/fmsouzaa">
