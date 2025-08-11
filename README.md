@@ -4,10 +4,9 @@
 
 <p> Me chamo Fernanda Maria, tenho experiência em APIs e sistemas escaláveis, utilizando C#, .NET, ASP.NET Core, SQL Server. Meu foco é criar código limpo, fácil de manter e com alta performance. </p>
 
+#
 
----
-
-### 🤖 Linguagens e Tecnologias   
+### 🧰 Linguagens e Tecnologias   
 
   <img
     align="left" 
@@ -54,7 +53,9 @@
   />
 
 <br/>
-<br/>
+
+
+#
 
 ### 📊 Estatísticas
 
